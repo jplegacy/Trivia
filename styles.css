@@ -1,0 +1,87 @@
+/*
+font-family: 'Bungee', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+body{
+
+    background-color:black;
+    background-image:url("https://media0.giphy.com/media/LbSdXQbS0XVVC/giphy.gif");
+    background-size:100% 100% ;
+
+    }
+.Start{
+    width:100%;
+    height:950px;
+    }
+.beginButton{
+    position: absolute;
+    left:70%;
+    top:70%;
+    }
+.question{
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    padding-top:300px;
+    font-size:35px;
+    text-align:center;
+    }
+
+.beginButton{
+    width:400px;
+    height:160px;
+    border:none;
+    margin-bottom:40px;
+    font-family: 'Open Sans', sans-serif;
+    font-size:60px;
+    color:white;
+    background:#020088;
+    }
+.beginButton:hover{
+    border:white solid 5px;
+     cursor:pointer;
+    }  
+.userAmount{
+    width:30%;
+    height:40px;
+    font-size:30px;
+    text-align:center;
+    }
+.userButton{
+    height:40px;
+    background:black;
+    border:none;
+    color:white;
+    font-size:30px;
+    }
+.userButton:hover{
+    cursor:pointer;
+    }
+.userScreen{
+    margin-left:42%;
+    margin-top:20%;
+    }
+.userScreen:hover{
+    cursor:pointer;
+    }
+.user{
+    display:flex;    
+    font-family: 'Roboto', sans-serif;
+    color:white;
+        }
+    
+.homeScreen{
+    width: 100%;
+    background-image:url('');
+    }
+    
+.icon{
+    margin-left:500px;
+    width:55px;
+    height:55px;
+    
+    }
+.icon:hover{
+    cursor:pointer;
+    }
